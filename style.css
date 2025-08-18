@@ -1,7 +1,13 @@
 body {
-     color:rgb(0, 0, 0);
-     background: rgb(0, 217, 255);
-
+     color:rgb(7, 43, 247);
+     background: rgb(255, 8, 0);
+}
+header {
+border-bottom: solid 2px rgb(0, 217, 255);
+padding: 20px;
+font-size: 32px;
+color: purple
+}
 
 
 
